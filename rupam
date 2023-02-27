@@ -1,3 +1,7 @@
 He here is my new ac
 and is my first-time 
+
 im happy to do this
+hey im Doing Pull method
+
+driver.manage().windows().maximize();
